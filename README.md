@@ -52,6 +52,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arrafa556&theme=github-dark-blue" alt="GitHub Streak"/>
 </p>
 
+Never Give up 
+Win willobtained with a warrior mentality
 ---
 
 ✨ **Featured Projects**
