@@ -58,8 +58,8 @@ Win willobtained with a warrior mentality
 
 ✨ **Featured Projects**
 
-- 🚀 [Project One](#) – Brief description about the project.
-- 🛠 [Project Two](#) – What makes this project awesome?
+- 🚀 [Project One](#) – Projek Halaman disain web 
+- 🛠 [Project Two](#) – Dengan tampilan menarik dan di bantu oleh AI
 
 ---
 
