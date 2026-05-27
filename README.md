@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: saya masih pelajar...
 -->
-<h1 align="center">Hi there, I'm <Arrafa Sr> 👋</h1>
+<h1 align="center">Hi Frinds I'm <Arrafa Sr> 👋</h1>
 
 <p align="center">
   <a href="https://github.com/Arrafa556">
