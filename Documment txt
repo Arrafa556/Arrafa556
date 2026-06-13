@@ -1,4 +1,29 @@
 Documment txt 
--membuat dan memperbaiki kode 
--Free bisa di akses di mana saja 
-- original 
+
+Alur Kerja Teriminal (Buka website fastApi)
+
+# Buka PowerShell baru
+cd C:\Users\ARR\my-json-project
+
+# Lihat file
+dir
+
+# Buka dengan Notepad
+notepad data.json
+
+# Atau jalankan program lagi
+node app.js
+
+Alur  Keja Teriminal 
+blackbox --help              # Lihat semua perintah
+blackbox --version           # Cek versi
+blackbox auth login          # Login ke akun Anda
+blackbox chat "pertanyaan"   # Tanya ke AI Blackbox
+Alur Kerja TERIMINAL 
+
+cd Desktop\project1
+python -m uvicorn main:app --reload
+http://localhost:8000
+http://localhost:8000Docs
+
+
