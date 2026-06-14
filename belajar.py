@@ -1,3 +1,5 @@
+Projek Kalkulator simple 
+
 #Program Perhitungan Nilai Siswa
 print("===Program Perhitungan Nilai Siswa===")
 
@@ -31,5 +33,9 @@ print(f"Nama Siswa  :  {nama}")
 print(f"Nilai Akhir : {Nilai_Akhir:.2f}")
 print(f"grade       :  {grade}")
 print(f"keterangan  :  {keterangan}")
+
+Deskipsi
+Only coding And Program di python 
+simple and essy 
     
 
