@@ -1,60 +1,35 @@
+#Program Perhitungan Nilai Siswa
+print("===Program Perhitungan Nilai Siswa===")
 
-# Program Python Sederhana - Kalkulator
-# Membuat program kalkulator dasar
+#  1. input Data Siswa Dan Nilai 
+nama = input("Masukan Nama Siswa:")
+tugas = float(input("Mausukan nilai tugas (0-100): "))
+uts = float(input("Masukan Nilai uts (0-100): "))
+uas = float(input("Masukan  Nilai uas (0-100): "))
 
-def tambah(a, b):
-    """Fungsi untuk menambah dua angka"""
-    return a + b
+# 2. Perhitungan Nilai Akhir (Rata-Rata Berbobot)
+#Bobot : Tugas 30%, UTS 35%, UAS 35%
+Nilai_Akhir = (tugas * 0.30) + (uts * 0.35) + (uas * 0.35)
 
-def kurang(a, b):
-    """Fungsi untuk mengurangi dua angka"""
-    return a - b
+# 3. Menentukan Predikat/grade Mengunakan Percabangan
+if Nilai_Akhir >= 85:
+    grade = "A"
+    keterangan = "Lulus Dengan Nilai Sempurna"
+elif Nilai_Akhir >= 70:
+    grade = "B"
+    keterangan = "Lulus"
+elif Nilai_Akhir >= 60:
+    grade = "C"
+    keterangan = "Lulus ,Dan Butuh Perbaikan"
+else :
+    grade = "D"
+    keterangan = "Tidak Lulus"
 
-def kali(a, b):
-    """Fungsi untuk mengalikan dua angka"""
-    return a * b
-
-def bagi(a, b):
-    """Fungsi untuk membagi dua angka"""
-    if b == 0:
-        return "Error: Tidak bisa dibagi dengan 0"
-    return a / b
-
-# Program utama
-print("=" * 40)
-print("    KALKULATOR SEDERHANA")
-print("=" * 40)
-
-angka1 = float(input("Masukkan angka pertama: "))
-angka2 = float(input("Masukkan angka kedua: "))
-
-print("\nPilih operasi:")
-print("1. Tambah (+)")
-print("2. Kurang (-)")
-print("3. Kali (*)")
-print("4. Bagi (/)")
-print("5. Persen (%)")
-
-pilihan = input("\nMasukkan pilihan (1/2/3/4/5): ")
-
-if pilihan == "1":
-    hasil = tambah(angka1, angka2)
-    print(f"\n{angka1} + {angka2} = {hasil}")
-elif pilihan == "2":
-    hasil = kurang(angka1, angka2)
-    print(f"\n{angka1} - {angka2} = {hasil}")
-elif pilihan == "3":
-    hasil = kali(angka1, angka2)
-    print(f"\n{angka1} * {angka2} = {hasil}")
-elif pilihan == "4":
-    hasil = bagi(angka1, angka2)
-    print(f"\n{angka1} / {angka2} = {hasil}")
-elif pilihan == "5":
-    hasil = persen(angka1, angka2)
-    print(f"\n{angka1} % {angka2} = {hasil}")
+# 4. Menampilkan Hasil 
+print("\n--- Hasil Akhir  ---")
+print(f"Nama Siswa  :  {nama}")
+print(f"Nilai Akhir : {Nilai_Akhir:.2f}")
+print(f"grade       :  {grade}")
+print(f"keterangan  :  {keterangan}")
     
-else:print("\nPilihan tidak valid sialahkan pilih 1, 2, 3, 4")
-print("\nTerima kasih telah menggunakan kalkulator sederhana ini! ")
 
-
-    
