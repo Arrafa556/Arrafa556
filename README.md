@@ -1,79 +1,93 @@
-## Friends👋
+# Hi Friend 👋
 
-<!--
-**Arrafa556/Arrafa556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on halaman profil pribadi..
-- 🌱 I’m currently learning web  ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about apa yang ada di pikiran mu Membuat Respostory..
-- 📫 How to reach me: ketik Arrafa556...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: saya masih pelajar...
--->
-<h1 align="center">friends I'm "Arrafa Sr" 👋</h1>
+<h1 align="center">I'm Arrafa Sr 🚀</h1>
 
 <p align="center">
   <a href="https://github.com/Arrafa556">
     <img src="https://img.shields.io/github/followers/Arrafa556?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
-  <!-- Add more badges here if needed -->
+  <img src="https://img.shields.io/badge/Status-Learning-brightgreen" alt="Status"/>
 </p>
 
 ---
 
-🌟 **About Me**
+## 🌟 About Me
 
-- 🔭 I’m currently working on: **[CoolProject](#)**  
-- 🌱 I’m learning: **NewTech, FrameworkX, etc.**
-- 👯 I’m looking to collaborate on: **Open source, Innovative projects, etc.**
-- 💬 Ask me about: **Your Expertise (e.g., React, Python, DevOps)**
-- ⚡ Fun fact: _“Your quirky fact here!”_
-- ⚡Discipline🥇
+- 🔭 **Currently Working On:** Building a personal portfolio website and learning modern web technologies
+- 🌱 **Learning:** Python, JavaScript, FastAPI, and web design principles
+- 👯 **Looking to Collaborate On:** Open source projects and innovative web solutions
+- 💬 **Ask Me About:** Python, JavaScript, web development, or anything on your mind!
+- ⚡ **Fun Fact:** I'm a student with a passion for learning and building cool projects!
+- 🥇 **Motto:** Never give up. Success comes with discipline and a warrior mentality.
+
 ---
 
-💻 **Tech Stack**
+## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/>
-  <!-- Add your favorite languages/tools here -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
 </p>
 
 ---
 
-📊 **GitHub Stats**
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arrafa556&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arrafa556&theme=github-dark-blue" alt="GitHub Streak"/>
 </p>
 
-Never Give up 
-Win will be obtained with a warrior mentality
 ---
 
-✨ **Featured Projects**
+## 🚀 Featured Projects
 
-- 🚀 [Project One](#) – Web Page Design Project 
-- 🛠 [Project Two](#) – AI-Assisted Web Design Project with Attractive Interface
+- **🌐 Personal Portfolio Website** – A responsive web design project showcasing my skills and projects with modern UI/UX
+- **📚 FastAPI Learning Project** – Building REST APIs with FastAPI to understand backend development
+- **🎓 Python Mini-Projects** – Various Python scripts and applications for learning purposes
 
----
-
-📫 **Let's Connect**
-
-- [Twitter](#)
-- [LinkedIn](#)
-- [Personal Website](#)
+> *More projects coming soon! Stay tuned.*
 
 ---
 
-<!-- Fun GIF or Inspirational Quote -->
+## 📫 Let's Connect
+
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Fun GIF"/>
-  <br>
-  <em>"Replace this with a quote or your personal motto."</em>
+  <a href="https://github.com/Arrafa556" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Arrafa556-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <!-- Uncomment and add your actual links when ready
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@yourhandle-blue?style=for-the-badge&logo=twitter" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Your%20Name-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-yourwebsite.com-brightgreen?style=for-the-badge" alt="Website"/>
+  </a>
+  -->
+</p>
+
+---
+
+## 💭 Inspirational Quote
+
+<p align="center">
+  <em>"The only way to do great work is to love what you do."</em><br>
+  – Steve Jobs
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Coding GIF"/>
+</p>
+
+---
+
+<p align="center">
+  Made with ❤️ by Arrafa Sr
 </p>
