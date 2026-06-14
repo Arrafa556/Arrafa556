@@ -1,4 +1,4 @@
-## Hi Friend👋
+## Friends👋
 
 <!--
 **Arrafa556/Arrafa556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: saya masih pelajar...
 -->
-<h1 align="center">Hi Frinds I'm <Arrafa Sr> 👋</h1>
+<h1 align="center">Hi Frinds I'm "Arrafa Sr" 👋</h1>
 
 <p align="center">
   <a href="https://github.com/Arrafa556">
@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 </p>
 
 Never Give up 
-Win willobtained with a warrior mentality
+Win will be obtained with a warrior mentality
 ---
 
 ✨ **Featured Projects**
 
-- 🚀 [Project One](#) – Projek Halaman disain web 
-- 🛠 [Project Two](#) – Dengan tampilan menarik dan di bantu oleh AI
+- 🚀 [Project One](#) – Web Page Design Project 
+- 🛠 [Project Two](#) – AI-Assisted Web Design Project with Attractive Interface
 
 ---
 
