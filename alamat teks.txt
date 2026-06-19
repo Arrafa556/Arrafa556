@@ -1,0 +1,11 @@
+https://pypi.org/project/arr-photo-edit-v1-2026-unique/
+https://gravatar.com/profile
+https://pypi.org/manage/account/#modal-close
+https://github.com/Arrafa556/arr-photo-edit-v1-2026-unique
+blackbox --help              # Lihat semua perintah
+blackbox --version           # Cek versi
+blackbox auth login          # Login ke akun Anda
+blackbox chat "pertanyaan"   # Tanya ke AI Blackbox
+cd Desktop\project1
+python -m uvicorn main:app --reload
+http://localhost:8000
