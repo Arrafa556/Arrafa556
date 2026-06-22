@@ -1,0 +1,54 @@
+body  {
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+    /* Background gradient */
+    background-image: url("https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80");
+    background-size: cover;
+    background-position: center;
+}
+h1,h2,h3{
+    text-align: center;
+}
+p {
+    text-align: center;
+    color: rgb(19, 18, 18);
+
+}
+
+
+img {
+   display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+.article1 {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 50px auto;
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-align: center;
+}
+.navbar {
+   display: flex;
+   background-color: rgb(33, 150, 243);
+   justify-content: space-between;
+   align-items: center;
+   border-bottom: 1px solid black;
+   padding: 10px;
+
+
+}
+ul {
+    text-align: center;
+    color:beige
+    ;
+}
+ol {
+    text-align: center;
+    color:beige
+}

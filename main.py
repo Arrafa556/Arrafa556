@@ -1,19 +1,22 @@
-import math
-import turtle
+from flask import Flask
 
-def hearta(k):
-    return 15 * math.sin(k) ** 3
+app = Flask(__name__)
 
-def heartb(k):
-    return 15 * math.cos(k) - 5 * math.cos(2 * k) - 2 * math.cos(3 * k) - 1 * math.cos(4 * k)
-    
-turtle.speed(0)
-turtle.bgcolor("black")
-for i in range(6000):
-    turtle.goto(hearta(i)*20, heartb(i)*20)
-    for j in range(5):
-        turtle.color("red")
+@app.route('/')
+def home():
+    return """
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Arduino Monitor</title>
+        <link rel="icon" href="/favicon.ico">
+    </head>
+    <body>
+        <h1>✓ Favicon Berhasil!</h1>
+        <p>Lihat ikon biru "A" di tab browser</p>
+    </body>
+    </html>
+    """
 
-    turtle.done()
-
-
+if __name__ == '__main__':
+    app.run(debug=True)
