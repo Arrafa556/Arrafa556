@@ -1,6 +1,6 @@
 # Hi Friend 👋
 
-<h1 align="center">I'm Arrafa Sr 🚀</h1>
+<h1 align="center">I'm ArrafaMa19 🚀</h1>
 
 <p align="center">
   <a href="https://github.com/Arrafa556">
@@ -13,7 +13,7 @@
 
 ## 🌟 About Me
 
-- 🔭 **Currently Working On:** Building a personal portfolio website and learning modern web technologies
+- 🔭 **Currently Working On:** Building a personal portfolio website and learning modern web technologies And I’m working on a simple Arduino project
 - 🌱 **Learning:** Python, JavaScript, FastAPI, and web design principles
 - 👯 **Looking to Collaborate On:** Open source projects and innovative web solutions
 - 💬 **Ask Me About:** Python, JavaScript, web development, or anything on your mind!
