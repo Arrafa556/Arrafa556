@@ -38,8 +38,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="" alt="GitHub Stats"/>
-  <br>
+  
   <img src="https://github-readme-stats-nu-gray.vercel.app/api?username=Arrafa556&show_icons=true&theme=github_dark" alt="GitHub Streak"/>
 </p>
 
