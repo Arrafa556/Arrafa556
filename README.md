@@ -40,7 +40,7 @@
 <p align="center">
   <img src="https://github-readme-stats-arrafa556.vercel.app/api?username=Arrafa556&show_icons=true" alt="GitHub Stats"/>
   <br>
-  <img src="https://streak-stats.demolab.com/?user=Arrafa556&theme=github-dark-blue" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-nu-gray.vercel.app/api?username=Arrafa556&show_icons=true&theme=github_dark" alt="GitHub Streak"/>
 </p>
 
 ---
