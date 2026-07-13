@@ -38,9 +38,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arrafa556&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arrafa556&theme=github-dark-blue" alt="GitHub Streak"/>
+  
+  <img src="https://github-readme-stats-nu-gray.vercel.app/api?username=Arrafa556&show_icons=true&theme=github_dark" alt="GitHub Streak"/>
 </p>
 
 ---
