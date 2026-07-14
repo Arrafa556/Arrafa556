@@ -19,6 +19,7 @@
 - 💬 **Ask Me About:** Python, JavaScript, web development, or anything on your mind!
 - ⚡ **Fun Fact:** I'm a student with a passion for learning and building cool projects!
 - 🥇 **Motto:** Never give up. Success comes with discipline and a warrior mentality.
+-  👨 **About me:** I am currently a student and am deeply obsessed with IT technology.
 
 ---
 
@@ -49,6 +50,9 @@
 - **🌐 Personal Portfolio Website** – A responsive web design project showcasing my skills and projects with modern UI/UX
 - **📚 FastAPI Learning Project** – Building REST APIs with FastAPI to understand backend development
 - **🎓 Python Mini-Projects** – Various Python scripts and applications for learning purposes
+ - **🎓 Php mini-projects** - Focus in Data base and Website And Fiture Web And Fiture Web 
+
+> *More projects coming soon! Stay tuned.*
 
 > *More projects coming soon! Stay tuned.*
 
