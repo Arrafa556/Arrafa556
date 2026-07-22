@@ -53,9 +53,6 @@
  - **🎓 Php mini-projects** - Focus in Data base and Website And Fiture Web And Fiture Web 
 
 > *More projects coming soon! Stay tuned.*
-
-> *More projects coming soon! Stay tuned.*
-
 ---
 
 ## 📫 Let's Connect
