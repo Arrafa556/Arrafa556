@@ -1,0 +1,24 @@
+# blok untuk typescript js htmll dan css
+
+// index.ts
+const teriminal = Bun.serve({
+  port: 3000,
+  fetch(request) {
+    const url = new URL(request.url);
+
+    // Halaman Utama (http://localhost:3000/)
+    if (url.pathname === "/") {
+      return new Response("Ini adalah Halaman Utama Website Anda!");
+    }
+
+    // Halaman About (http://localhost:3000/about)
+    if (url.pathname === "/about") {
+      return new Response("Ini adalah Halaman Tentang Kami (About)!");
+    }
+
+    // Jika halaman tidak ditemukan (404)
+    return new Response("Maaf, halaman tidak ditemukan!", { status: 404 });
+  }
+});
+
+console.log(`🚀 Server web running on http://localhost:${teriminal.port}`);
